@@ -1,0 +1,62 @@
+---
+title: "simple_quarto_website"
+bibliography: reference.bib
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+# Pink
+
+| Column 1         | Column 2         |
+|------------------|------------------|
+| Flowers| Rocks|
+| Rain| Oil|
+
+
+> Testing[^1]
+
+Adding text between headers
+
+
+{{< video https://www.youtube.com/watch?v=01dn67QubYQ&ab_channel=LofiKitty width="250" height="175" >}}
+
+## Green
+
+- Kibble
+- Tibble
+- Nibble
+
+![Panda](https://cdn.mos.cms.futurecdn.net/3n8tRry6fYg7sNyhFDPQwR-1200-80.jpg){width=300}
+
+![Cat](https://cdn.britannica.com/36/234736-050-4AC5B6D5/Scottish-fold-cat.jpg){width=800}
+
+Adding text between headers
+
+### Blue
+
+Inline equation: $a = b+2^c$
+
+Non inline equation:
+
+$$
+f(x) = xy + m + b^9
+$$
+
+
+{{< video https://www.youtube.com/watch?v=iiKfwwCaGzg&ab_channel=chillchilljournal width="300" height="250" >}}
+
+
+```{mermaid}
+flowchart LR
+  A[Hunger] --> B(Eat?)
+  B --> C{Yes or No}
+  C --> D[Yes]
+  C --> E[No]
+```
+
+
+Child Development [@brownell2016prosocial, pp. 223]
+
+[^1]: Footnote Test

@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.html#green",
+    "href": "about.html#green",
+    "title": "About",
+    "section": "Green",
+    "text": "Green\nAdding text between headers\n\nBlue\nAdding text between headers\n\nimport matplotlib.pyplot as plt\n\nplt.plot([10,20,30], [9,0,2])"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#green",
+    "href": "index.html#green",
+    "title": "simple_quarto_website",
+    "section": "Green",
+    "text": "Green\n\nKibble\nTibble\nNibble\n\n\n\n\nPanda\n\n\n\n\n\nCat\n\n\nAdding text between headers\n\nBlue\nInline equation: \\(a = b+2^c\\)\nNon inline equation:\n\\[\nf(x) = xy + m + b^9\n\\]\n\n\n\n\n\n\nflowchart LR\n  A[Hunger] --&gt; B(Eat?)\n  B --&gt; C{Yes or No}\n  C --&gt; D[Yes]\n  C --&gt; E[No]\n\n\n\n\n\n\nChild Development (Brownell and Lab 2016, 223)"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nFootnote Test↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#animal",
+    "href": "slides/slides.html#animal",
+    "title": "Testing",
+    "section": "Animal",
+    "text": "Animal\n\nHere are my pets"
+  },
+  {
+    "objectID": "slides/slides.html#plot",
+    "href": "slides/slides.html#plot",
+    "title": "Testing",
+    "section": "Plot",
+    "text": "Plot\nimport matplotlib.pyplot as plt\nplt.plot([1,1,1,1,1,1,1,1,1,10], [1,1,8,1,1,1,3,2,1,10]) plt.show()"
+  },
+  {
+    "objectID": "slides/slides.html#reference",
+    "href": "slides/slides.html#reference",
+    "title": "Testing",
+    "section": "Reference",
+    "text": "Reference\n\nChild Development (Brownell and Lab 2016, 223)\n\n\n\n\n\n\n\n\n\nBrownell, Celia A, and Early Social Development Research Lab. 2016. “Prosocial Behavior in Infancy: The Role of Socialization.” Child Development Perspectives 10 (4): 222–27."
+  }
+]
